@@ -36,6 +36,9 @@ p = 61
 q = 53
 pub, priv = generate_keys(p, q)
 
+print(f"Public Key: {pub}")
+print(f"Private Key: {priv}")
+
 message = "Gib University is great"
 encrypted_msg = encrypt(message, pub)
 decrypted_msg = decrypt(encrypted_msg, priv)
