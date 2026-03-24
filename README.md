@@ -22,3 +22,8 @@ To understand this code, you should be familiar with:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/davyrob-clg/pke.git
+
+## 🛠️ Exercises
+
+There are also a number of GUI python tools to encrypt and decrypt - both  symmetric and  asymmetric keys - the idea is to show how to enrypt files and data with both types of keys and demo the idea of pre-shared keys.  We also cover diffe-hellman in this course and this also helps
+
