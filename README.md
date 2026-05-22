@@ -21,7 +21,7 @@ To understand this code, you should be familiar with:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/davyrob-clg/pke.git
+   git clone https://github.com/unigib/pke.git
 
 ## 🛠️ Exercises
 
